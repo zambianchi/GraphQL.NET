@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLNet", "GraphQLNet\GraphQLNet.csproj", "{6534B8AC-DC7D-4D85-B8B2-3F041A1390D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLNet.UnitTests", "GraphQLNet.UnitTests\GraphQLNet.UnitTests.csproj", "{B5558D63-5C7F-4335-8B6D-7CDA7506A3E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{89A29970-4EC0-432F-9719-4FBB56EBC41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6534B8AC-DC7D-4D85-B8B2-3F041A1390D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6534B8AC-DC7D-4D85-B8B2-3F041A1390D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6534B8AC-DC7D-4D85-B8B2-3F041A1390D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6534B8AC-DC7D-4D85-B8B2-3F041A1390D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5558D63-5C7F-4335-8B6D-7CDA7506A3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5558D63-5C7F-4335-8B6D-7CDA7506A3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5558D63-5C7F-4335-8B6D-7CDA7506A3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5558D63-5C7F-4335-8B6D-7CDA7506A3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B5558D63-5C7F-4335-8B6D-7CDA7506A3E2} = {89A29970-4EC0-432F-9719-4FBB56EBC41E}
+	EndGlobalSection
+EndGlobal
